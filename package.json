@@ -1,0 +1,19 @@
+{
+  "name": "time-tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aayushishah24/timetracking-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aayushishah24/timetracking-/issues"
+  },
+  "homepage": "https://github.com/aayushishah24/timetracking-#readme"
+}
